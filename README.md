@@ -24,4 +24,4 @@ To run the site locally,
 
 ## **Demo**
 
-To view the site visit [https://frnd-fnder-app.herokuapp.com/](https://eat-daburger.herokuapp.com/)
+To view the site visit [https://eat-daburger.herokuapp.com/](https://eat-daburger.herokuapp.com/)
