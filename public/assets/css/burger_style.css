@@ -1,0 +1,97 @@
+ html {
+ 	background-color: #b2ebff;
+ }
+
+ body {
+ 	width: 75%;
+	margin: 0 auto; 
+
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+	background-color: white;
+ }
+
+ img {
+ 	display: block;
+    margin: auto;
+    padding-top: 10px;
+ }
+
+ h1 {
+ 	text-align: center;
+ 	font-family: 'Fontdiner Swanky', cursive;
+ 	font-size: 65px;
+ 	margin: 50px;
+ }
+
+ .burgerAvailable {
+ 	font-family: 'Shadows Into Light', cursive;
+ 	font-weight: normal;
+ 	font-size: 20px;
+ 	text-align: center;
+
+ 	border-radius: 25px;
+ 	width: 100%;
+ 	margin: 10px;
+ 	padding: 10px;
+ 	background-color: #b7ffc2;
+ 	border: none;
+ }
+
+ .burgerAvailable:hover {
+ 	background-color: #81ff94;
+ }
+
+ .burgerEaten {
+ 	font-family: 'Shadows Into Light', cursive;
+ 	font-weight: normal;
+ 	font-size: 20px;
+ 	text-align: center;
+
+ 	border-radius: 25px;
+ 	margin: 10px;
+ 	padding: 10px;
+ 	background-color: #ffd1c9;
+ }
+
+ h2 {
+  	text-align: center;
+ 	font-family: 'Fontdiner Swanky', cursive;
+ 	font-size: 40px;
+ 	margin: 50px;
+ }
+
+ h3 {
+  	text-align: center;
+ 	font-family: 'Fontdiner Swanky', cursive;
+ 	font-size: 40px;
+ 	margin: 50px;
+ }
+
+ .addBurger {
+ 	font-family: 'Shadows Into Light', cursive;
+ 	font-weight: normal;
+ 	font-size: 20px;
+ 	text-align: center;
+
+ 	border-radius: 25px;
+ 	width: 100%;
+ 	margin: 0;
+ 	padding: 10px;
+ 	background-color: #f99898;
+ 	border: none;
+ }
+
+.addBurger:active {
+	background-color: #FFC04C;
+}
+
+.page-footer {
+	background-color: #b2ebff !important;
+	padding: 20px 0;
+}
+
+.footer-text {
+	color: black !important;
+}
